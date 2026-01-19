@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>鱼沢Orange</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>鱼沢Orange</h1>
+        </div>
+        
+        <div class="control-panel">
+            <button class="random-btn" onclick="playRandomAudio()">
+                随机播放
+            </button>
+            
+<button class="random-btn stop" onclick="stopAllAudio()">
+     停止所有
+</button>
+
+            <div class="control-group">
+                <div class="mode-selector">
+                    <span>播放模式:</span>
+                    <select id="playMode" onchange="changePlayMode(this.value)">
+                        <option value="single">普通</option>
+                        <option value="loop">循环播放</option>
+                        <option value="random">随机连播</option>
+                    </select>
+                </div>
+                
+                <div class="toggle-switch">
+                    <span>重叠播放:</span>
+                    <label class="switch">
+                        <input type="checkbox" id="overlapToggle" checked onchange="toggleOverlap(this.checked)">
+                        <span class="slider"></span>
+                    </label>
+                    <span id="overlapStatus" class="status-on">开启</span>
+                </div>
+            </div>
+                    
+        <div id="audioButtons"></div>
+        
+        <div class="status-bar">
+            <span id="nowPlaying">等待播放...</span>
+            <span id="playQueue">队列: 0</span>
+        </div>
+        
+        <!-- 操作说明 -->
+        <div class="instructions">
+            <p><strong>快捷键说明：</strong> 空格键=暂停/播放 | R=随机播放 | S=停止所有 | ESC=停止 | O=切换重叠播放</p>
+            <p><strong>提示：</strong> 首次使用请先点击页面任意位置激活音频权限</p>
+        </div>
+    </div>
+    
+    <script src="config.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>
