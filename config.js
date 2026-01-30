@@ -585,25 +585,25 @@ const audioData = [
         id: 32,
         name: "喵喵喵1",
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%5BP1%5D%E5%96%B5%E5%96%B5%E5%96%B5.mp3",
-        category: "其他"
+        category: "猫叫"
     },
 {
         id: 33,
         name: "喵喵喵2",
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%5BP2%5D%E3%80%8A%E4%B8%8B%E7%AD%89%E7%8C%AB%E3%80%8B.mp3",
-        category: "其他"
+        category: "猫叫"
     },
 {
         id: 94,
         name: "喵↑喵↑",
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%96%B5%E2%86%91%E5%96%B5%E2%86%91.mp3",
-        category: "其他"
+        category: "猫叫"
     },
 {
         id: 95,
         name: "喵嗯喵",
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%96%B5%E5%97%AF%E5%96%B5.mp3",
-        category: "其他"
+        category: "猫叫"
     },
 // ========== yue ==========
      {
@@ -785,6 +785,7 @@ const audioData = [
      // ========== 继续添加你的音频 ==========
 
 ];
+
 
 
 
