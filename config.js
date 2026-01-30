@@ -543,80 +543,45 @@ const audioData = [
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%9C%9F%E5%91%B310.mp3",
         category: "土味情话"
     },
-// ========== 其他 ==========
-{
-        id: 21,
-        name: "mua",
-        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/mua.mp3",
-        category: "其他"
-    },
-{
-        id: 22,
-        name: "阿里嘎多",
-        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E9%98%BF%E9%87%8C%E5%98%8E%E5%A4%9A.mp3",
-        category: "其他"
-    },
-{
-        id: 25,
-        name: "汪*7",
-        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E7%8B%97%E5%8F%AB.mp3",
-        category: "其他"
-    },
-{
+// ========== 糖笑 ==========
+    {
         id: 26,
         name: "糖笑1",
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%94%90%E7%AC%91.mp3",
-        category: "其他"
+        category: "糖笑"
     },
 {
         id: 60,
         name: "糖笑2",
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%94%90%E7%AC%912.mp3",
-        category: "其他"
+        category: "糖笑"
     },
 {
         id: 93,
         name: "糖笑3",
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%94%90%E7%AC%913.mp3",
-        category: "其他"
+        category: "糖笑"
     },
 {
         id: 109,
         name: "糖笑4",
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%94%90%E7%AC%914.mp3",
-        category: "其他"
+        category: "糖笑"
     },
     {
         id: 110,
         name: "糖笑5",
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%94%90%E7%AC%915.mp3",
-        category: "其他"
+        category: "糖笑"
     },
         {
         id: 111,
         name: "糖笑6",
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%94%90%E7%AC%916.mp3",
-        category: "其他"
+        category: "糖笑"
     },
-{
-        id: 29,
-        name: "煮面？",
-        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E7%85%AE%E9%9D%A2%EF%BC%9F.mp3",
-        category: "其他"
-    },
-{
-        id: 35,
-        name: "哼小曲1",
-        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%5BP03%5D%283%29%E5%93%BC%E5%B0%8F%E6%9B%B2.mp3",
-        category: "其他"
-    },
-{
-        id: 36,
-        name: "哼小曲2",
-        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%5BP04%5D%284%29%E5%93%BC%E5%B0%8F%E6%9B%B2.mp3",
-        category: "其他"
-    },
-{
+// ========== 猫叫 ==========
+    {
         id: 32,
         name: "喵喵喵1",
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%5BP1%5D%E5%96%B5%E5%96%B5%E5%96%B5.mp3",
@@ -638,6 +603,46 @@ const audioData = [
         id: 95,
         name: "喵嗯喵",
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%96%B5%E5%97%AF%E5%96%B5.mp3",
+        category: "其他"
+    },
+// ========== yue ==========
+    
+// ========== 其他 ==========
+{
+        id: 21,
+        name: "mua",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/mua.mp3",
+        category: "其他"
+    },
+{
+        id: 22,
+        name: "阿里嘎多",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E9%98%BF%E9%87%8C%E5%98%8E%E5%A4%9A.mp3",
+        category: "其他"
+    },
+{
+        id: 25,
+        name: "汪*7",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E7%8B%97%E5%8F%AB.mp3",
+        category: "其他"
+    },
+
+{
+        id: 29,
+        name: "煮面？",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E7%85%AE%E9%9D%A2%EF%BC%9F.mp3",
+        category: "其他"
+    },
+{
+        id: 35,
+        name: "哼小曲1",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%5BP03%5D%283%29%E5%93%BC%E5%B0%8F%E6%9B%B2.mp3",
+        category: "其他"
+    },
+{
+        id: 36,
+        name: "哼小曲2",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%5BP04%5D%284%29%E5%93%BC%E5%B0%8F%E6%9B%B2.mp3",
         category: "其他"
     },
 {
@@ -733,4 +738,5 @@ const audioData = [
      // ========== 继续添加你的音频 ==========
 
 ];
+
 
