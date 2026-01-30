@@ -606,7 +606,54 @@ const audioData = [
         category: "其他"
     },
 // ========== yue ==========
-    
+     {
+        id: 121,
+        name: "yue1",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/yue1.MP3",
+        category: "yue"
+    },
+        {
+        id: 122,
+        name: "yue2",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/yue2.MP3",
+        category: "yue"
+    },
+    {
+        id: 123,
+        name: "yue3",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/yue3.MP3",
+        category: "yue"
+    },
+    {
+        id: 124,
+        name: "yue4",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/yue4.MP3",
+        category: "yue"
+    },
+    {
+        id: 125,
+        name: "yue5",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/yue5.MP3",
+        category: "yue"
+    },
+    {
+        id: 126,
+        name: "yue6",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/yue6.MP3",
+        category: "yue"
+    },
+    {
+        id: 127,
+        name: "yue7",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/yue7.MP3",
+        category: "yue"
+    },
+    {
+        id: 128,
+        name: "yue8",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/yue8.MP3",
+        category: "yue"
+    },
 // ========== 其他 ==========
 {
         id: 21,
@@ -738,5 +785,6 @@ const audioData = [
      // ========== 继续添加你的音频 ==========
 
 ];
+
 
 
