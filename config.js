@@ -4,7 +4,7 @@ const audioData = [
 {
         id: 131,
         name: "自我介绍",
-        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D.mp3.mp3",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D.mp3",
         category: "名言"
     },    
     {
@@ -845,6 +845,7 @@ const audioData = [
      // ========== 继续添加你的音频 ==========
 
 ];
+
 
 
 
