@@ -2,6 +2,12 @@
 const audioData = [
     // ========== 名言 ==========
 {
+        id: 131,
+        name: "自我介绍",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D.mp3.mp3",
+        category: "名言"
+    },    
+    {
         id: 1,
         name: "自我介绍1",
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%AE%A2%E6%9C%8D.mp3",
@@ -271,6 +277,24 @@ const audioData = [
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E8%83%BD%E4%B8%8D%E8%83%BD%E5%BF%AB%E7%82%B9%E7%A4%BE.mp3",
         category: "名言"
     },
+     {
+        id: 134,
+        name: "我都导了",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%88%91%E9%83%BD%E5%AF%BC%E4%BA%86.mp3",
+        category: "名言"
+    },
+    {
+        id: 136,
+        name: "女仆三问",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%A5%B3%E4%BB%86%E4%B8%89%E9%97%AE.mp3",
+        category: "名言"
+    },
+    {
+        id: 137,
+        name: "下面不行",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E4%B8%8B%E9%9D%A2%E4%B8%8D%E8%A1%8C.mp3",
+        category: "名言"
+    },
  // ========== 十八连 ==========
     {
         id: 6,
@@ -424,6 +448,12 @@ const audioData = [
         id: 113,
         name: "宝贝啊",
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%AE%9D%E8%B4%9D%E5%95%8A.mp3",
+        category: "称呼"
+    },
+    {
+        id: 135,
+        name: "宝贝啊",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%AE%9D%E8%B4%9D.mp3",
         category: "称呼"
     },
  // ========== 代表作 ==========
@@ -782,9 +812,40 @@ const audioData = [
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%BB%9A%E5%95%8A%E6%BB%9A%E5%95%8A.mp3",
         category: "其他"
     },
+    {
+        id: 129,
+        name: "难道我是一只很坏的小猫咪吗",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E9%9A%BE%E9%81%93%E6%88%91%E6%98%AF%E4%B8%80%E5%8F%AA%E5%BE%88%E5%9D%8F%E7%9A%84%E5%B0%8F%E7%8C%AB%E5%92%AA%E5%90%97.mp3",
+        category: "其他"
+    },
+    {
+        id: 130,
+        name: "讷讷讷",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E8%AE%B7%E8%AE%B7%E8%AE%B7.mp3",
+        category: "其他"
+    },
+    {
+        id: 132,
+        name: "洗了秒 不洗了喵",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%B4%97%E4%BA%86%E7%A7%92%20%E4%B8%8D%E6%B4%97%E4%BA%86%E5%96%B5.mp3",
+        category: "其他"
+    },
+    {
+        id: 133,
+        name: "斯哈",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%96%AF%E5%93%88.mp3",
+        category: "其他"
+    },
+    {
+        id: 138,
+        name: "呱呱",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%91%B1%E5%91%B1.mp3",
+        category: "其他"
+    },
      // ========== 继续添加你的音频 ==========
 
 ];
+
 
 
 
