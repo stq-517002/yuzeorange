@@ -88,7 +88,7 @@ const audioData = [
 {
         id: 28,
         name: "我喜欢赤石",
-        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%96%9C%E6%AC%A2.mp3",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%96%9C%E6%AC%A2.MP3",
         category: "名言"
     },
 {
@@ -128,6 +128,12 @@ const audioData = [
         category: "名言"
     },
 {
+        id: 166,
+        name: "捏你个蛋",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%8D%8F%E4%BD%A0%E4%B8%AA%E8%9B%8B.MP3",
+        category: "名言"
+    },
+    {
         id: 49,
         name: "我杀了你",
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%88%91%E6%9D%80%E4%BA%86%E4%BD%A0.mp3",
@@ -136,25 +142,25 @@ const audioData = [
 {
         id: 50,
         name: "我铜丝你啊",
-        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%88%91%E9%93%9C%E4%B8%9D%E4%BD%A0%E5%95%8A.mp3",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%88%91%E9%93%9C%E4%B8%9D%E4%BD%A0%E5%95%8A.MP3",
         category: "名言"
     },
 {
         id: 52,
         name: "妈妈你坏死了",
-        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%A6%88%E5%A6%88%E4%BD%A0%E5%9D%8F%E6%AD%BB%E4%BA%86.mp3",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%A6%88%E5%A6%88%E4%BD%A0%E5%9D%8F%E6%AD%BB%E4%BA%86.MP3",
         category: "名言"
     },
 {
         id: 54,
         name: "真有病吧",
-        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E7%9C%9F%E6%9C%89%E7%97%85%E5%90%A7.mp3",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E7%9C%9F%E6%9C%89%E7%97%85%E5%90%A7.MP3",
         category: "名言"
     },
 {
         id: 55,
         name: "主人主人汪汪汪",
-        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E4%B8%BB%E4%BA%BA%E4%B8%BB%E4%BA%BA%E6%B1%AA%E6%B1%AA%E6%B1%AA.mp3",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E4%B8%BB%E4%BA%BA%E4%B8%BB%E4%BA%BA%E6%B1%AA%E6%B1%AA%E6%B1%AA.MP3",
         category: "名言"
     },
 {
@@ -172,7 +178,7 @@ const audioData = [
 {
         id: 81,
         name: "我靠",
-        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%88%91%E9%9D%A0%20%281%29.mp3",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%88%91%E9%9D%A0.MP3",
         category: "名言"
     },
 {
@@ -214,25 +220,31 @@ const audioData = [
 {
         id: 99,
         name: "那我糖怎么了",
-        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E9%82%A3%E6%88%91%E7%B3%96%E6%80%8E%E4%B9%88%E4%BA%86.mp3",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E9%82%A3%E6%88%91%E7%B3%96%E6%80%8E%E4%B9%88%E4%BA%86.MP3",
         category: "名言"
     },
 {
         id: 101,
         name: "下海",
-        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E4%B8%8B%E6%B5%B7.mp3",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E4%B8%8B%E6%B5%B7.MP3",
+        category: "名言"
+    },
+    {
+        id: 146,
+        name: "不就是下海吗",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E4%B8%8D%E5%B0%B1%E6%98%AF%E4%B8%8B%E6%B5%B7%E5%90%97.MP3",
         category: "名言"
     },
     {
         id: 106,
         name: "变大啦，唉，好色情啊",
-        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%8F%98%E5%A4%A7%E5%95%A6%EF%BC%8C%E5%94%89%EF%BC%8C%E5%A5%BD%E8%89%B2%E6%83%85%E5%95%8A.mp3",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%8F%98%E5%A4%A7%E5%95%A6%EF%BC%8C%E5%94%89%EF%BC%8C%E5%A5%BD%E8%89%B2%E6%83%85%E5%95%8A.MP3",
         category: "名言"
     },
     {
         id: 107,
         name: "吃我的大雷",
-        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%90%83%E6%88%91%E7%9A%84%E5%A4%A7%E9%9B%B7.mp3",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%90%83%E6%88%91%E7%9A%84%E5%A4%A7%E9%9B%B7.MP3",
         category: "名言"
     },
     {
@@ -244,37 +256,37 @@ const audioData = [
     {
         id: 114,
         name: "我拉你手上",
-        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%88%91%E6%8B%89%E4%BD%A0%E6%89%8B%E4%B8%8A.mp3",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%88%91%E6%8B%89%E4%BD%A0%E6%89%8B%E4%B8%8A.MP3",
         category: "名言"
     },
     {
         id: 115,
         name: "我靠我不会露出吧",
-        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%88%91%E9%9D%A0%E6%88%91%E4%B8%8D%E4%BC%9A%E9%9C%B2%E5%87%BA%E5%90%A7.mp3",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%88%91%E9%9D%A0%E6%88%91%E4%B8%8D%E4%BC%9A%E9%9C%B2%E5%87%BA%E5%90%A7.MP3",
         category: "名言"
     },
     {
         id: 116,
         name: "有点养胃了",
-        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%9C%89%E7%82%B9%E5%85%BB%E8%83%83%E4%BA%86.mp3",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%9C%89%E7%82%B9%E5%85%BB%E8%83%83%E4%BA%86.MP3",
         category: "名言"
     },
     {
         id: 117,
         name: "来来来打我一拳",
-        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%9D%A5%E6%9D%A5%E6%9D%A5%E6%89%93%E6%88%91%E4%B8%80%E6%8B%B3.mp3",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%9D%A5%E6%9D%A5%E6%9D%A5%E6%89%93%E6%88%91%E4%B8%80%E6%8B%B3.MP3",
         category: "名言"
     },
     {
         id: 119,
         name: "社死你*3",
-        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E7%A4%BE%E6%AD%BB%E4%BD%A0x3.mp3",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E7%A4%BE%E6%AD%BB%E4%BD%A0%C3%973.MP3",
         category: "名言"
     },
     {
         id: 120,
         name: "能不能快点社",
-        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E8%83%BD%E4%B8%8D%E8%83%BD%E5%BF%AB%E7%82%B9%E7%A4%BE.mp3",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E8%83%BD%E4%B8%8D%E8%83%BD%E5%BF%AB%E7%82%B9%E7%A4%BE.MP3",
         category: "名言"
     },
      {
@@ -286,13 +298,85 @@ const audioData = [
     {
         id: 136,
         name: "女仆三问",
-        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%A5%B3%E4%BB%86%E4%B8%89%E9%97%AE.mp3",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%A5%B3%E4%BB%86%E4%B8%89%E9%97%AE.MP3",
         category: "名言"
     },
     {
         id: 137,
         name: "下面不行",
-        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E4%B8%8B%E9%9D%A2%E4%B8%8D%E8%A1%8C.mp3",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E4%B8%8B%E9%9D%A2%E4%B8%8D%E8%A1%8C.MP3",
+        category: "名言"
+    },
+    {
+        id: 140,
+        name: "你别管我就想被抽皮鼓",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E4%BD%A0%E5%88%AB%E7%AE%A1%E6%88%91%E5%B0%B1%E5%83%8F%E8%A2%AB%E6%8A%BD%E7%9A%AE%E9%BC%93.mp3",
+        category: "名言"
+    },
+    {
+        id: 141,
+        name: "你是傻逼吧我靠我受不了了",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E4%BD%A0%E6%98%AF%E5%82%BB%E9%80%BC%E5%90%A7%E6%88%91%E9%9D%A0%E6%88%91%E5%8F%97%E4%B8%8D%E4%BA%86%E4%BA%86.mp3",
+        category: "名言"
+    },
+     {
+        id: 142,
+        name: "别管我，就想被抽皮鼓",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%88%AB%E7%AE%A1%E6%88%91%EF%BC%8C%E5%B0%B1%E5%83%8F%E8%A2%AB%E6%8A%BD%E7%9A%AE%E9%BC%93.mp3",
+        category: "名言"
+    },
+    {
+        id: 143,
+        name: "好开心啊，但是没人满足我，没人可以满足小鱼喵呢",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%A5%BD%E5%BC%80%E5%BF%83%E5%95%8A%EF%BC%8C%E4%BD%86%E6%98%AF%E6%B2%A1%E4%BA%BA%E6%BB%A1%E8%B6%B3%E6%88%91%EF%BC%8C%E6%B2%A1%E4%BA%BA%E5%8F%AF%E4%BB%A5%E6%BB%A1%E8%B6%B3%E5%B0%8F%E9%B1%BC%E5%96%B5%E5%91%A2.mp3",
+        category: "名言"
+    },
+    {
+        id: 144,
+        name: "好想被抽皮鼓啊，你们不给我机会",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%A5%BD%E6%83%B3%E8%A2%AB%E6%8A%BD%E7%9A%AE%E9%BC%93%E5%95%8A%EF%BC%8C%E4%BD%A0%E4%BB%AC%E4%B8%8D%E7%BB%99%E6%88%91%E6%9C%BA%E4%BC%9A.mp3",
+        category: "名言"
+    },
+    {
+        id: 145,
+        name: "皮鼓拱起来都没人抽，太寂寞了",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E7%9A%AE%E9%BC%93%E6%8B%B1%E8%B5%B7%E6%9D%A5%E9%83%BD%E6%B2%A1%E4%BA%BA%E6%8A%BD%EF%BC%8C%E5%A4%AA%E5%AF%82%E5%AF%9E%E4%BA%86.mp3",
+        category: "名言"
+    },
+    {
+        id: 149,
+        name: "小鱼咪可以扇一下我吗",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%B0%8F%E9%B1%BC%E5%92%AA%E5%8F%AF%E4%BB%A5%E6%89%87%E4%B8%80%E4%B8%8B%E6%88%91%E5%90%97.mp3",
+        category: "名言"
+    },
+    {
+        id: 150,
+        name: "打你老二",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%89%93%E4%BD%A0%E8%80%81%E4%BA%8C.mp3",
+        category: "名言"
+    },
+    {
+        id: 154,
+        name: "爹爹不可以，我还没有长大",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E7%88%B9%E7%88%B9%E4%B8%8D%E5%8F%AF%E4%BB%A5%EF%BC%8C%E6%88%91%E8%BF%98%E6%B2%A1%E6%9C%89%E9%95%BF%E5%A4%A7.mp3",
+        category: "名言"
+    },
+    {
+        id: 156,
+        name: "给我听立了",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E7%BB%99%E6%88%91%E5%90%AC%E7%AB%8B%E4%BA%86.MP3",
+        category: "名言"
+    },
+    {
+        id: 161,
+        name: "我性压抑",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%88%91%E6%80%A7%E5%8E%8B%E6%8A%91.MP3",
+        category: "名言"
+    },
+    {
+        id: 162,
+        name: "我是秃头",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%88%91%E6%98%AF%E7%A7%83%E5%A4%B4.MP3",
         category: "名言"
     },
  // ========== 十八连 ==========
@@ -425,6 +509,18 @@ const audioData = [
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E7%88%B8%E7%88%B8.mp3",
         category: "称呼"
     },
+    {
+        id: 152,
+        name: "爸爸2",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E7%88%B8%E7%88%B82.MP3",
+        category: "称呼"
+    },
+    {
+        id: 153,
+        name: "爸爸×3",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E7%88%B8%E7%88%B8%C3%973.MP3",
+        category: "称呼"
+    },
 {
         id: 88,
         name: "爸比",
@@ -454,6 +550,12 @@ const audioData = [
         id: 135,
         name: "宝贝",
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%AE%9D%E8%B4%9D.mp3",
+        category: "称呼"
+    },
+    {
+        id: 148,
+        name: "妈妈",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%A6%88%E5%A6%882.MP3",
         category: "称呼"
     },
  // ========== 代表作 ==========
@@ -755,13 +857,13 @@ const audioData = [
 {
         id: 86,
         name: "不行不行",
-        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E4%B8%8D%E8%A1%8C%E4%B8%8D%E8%A1%8C.mp3",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E4%B8%8D%E8%A1%8C%E4%B8%8D%E8%A1%8C.MP3",
         category: "其他"
     },
     {
         id: 102,
         name: "不要不要，不要不要",
-        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E4%B8%8D%E8%A6%81%E4%B8%8D%E8%A6%81%EF%BC%8C%E4%B8%8D%E8%A6%81%E4%B8%8D%E8%A6%81.mp3",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E4%B8%8D%E8%A6%81%E4%B8%8D%E8%A6%81%EF%BC%8C%E4%B8%8D%E8%A6%81%E4%B8%8D%E8%A6%81.MP3",
         category: "其他"
     },
     {
@@ -803,13 +905,19 @@ const audioData = [
     {
         id: 112,
         name: "完了！！！",
-        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%AE%8C%E4%BA%86%EF%BC%81%EF%BC%81%EF%BC%81.mp3",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%AE%8C%E4%BA%86%EF%BC%81%EF%BC%81%EF%BC%81.MP3",
         category: "其他"
     },
     {
         id: 118,
         name: "滚啊滚啊",
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%BB%9A%E5%95%8A%E6%BB%9A%E5%95%8A.mp3",
+        category: "其他"
+    },
+    {
+        id: 151,
+        name: "滚",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%BB%9A-1.mp3",
         category: "其他"
     },
     {
@@ -821,7 +929,7 @@ const audioData = [
     {
         id: 130,
         name: "讷讷讷",
-        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E8%AE%B7%E8%AE%B7%E8%AE%B7.mp3",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E8%AE%B7%E8%AE%B7%E8%AE%B7.MP3",
         category: "其他"
     },
     {
@@ -840,6 +948,60 @@ const audioData = [
         id: 138,
         name: "呱呱",
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%91%B1%E5%91%B1.mp3",
+        category: "其他"
+    },
+    {
+        id: 139,
+        name: "魔法",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E9%AD%94%E6%B3%95.MP3",
+        category: "其他"
+    },
+    {
+        id: 147,
+        name: "哥哥我摔倒了",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%93%A5%E5%93%A5%E6%88%91%E6%91%94%E5%80%92%E4%BA%86.mp3",
+        category: "其他"
+    },
+    {
+        id: 157,
+        name: "要不要做妈妈的乖狗狗啊",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E8%A6%81%E4%B8%8D%E8%A6%81%E5%81%9A%E5%A6%88%E5%A6%88%E7%9A%84%E4%B9%96%E7%8B%97%E7%8B%97%E5%95%8A.mp3",
+        category: "其他"
+    },
+    {
+        id: 155,
+        name: "真是妈妈的乖狗狗呢",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E7%9C%9F%E6%98%AF%E5%A6%88%E5%A6%88%E7%9A%84%E4%B9%96%E7%8B%97%E7%8B%97%E5%91%A2.mp3",
+        category: "其他"
+    },
+    {
+        id: 158,
+        name: "非得我扇你吗",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E9%9D%9E%E5%BE%97%E6%88%91%E6%89%87%E4%BD%A0%E5%90%97.MP3",
+        category: "其他"
+    },
+    {
+        id: 159,
+        name: "你是我的主人",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E4%BD%A0%E6%98%AF%E6%88%91%E7%9A%84%E4%B8%BB%E4%BA%BA.MP3",
+        category: "其他"
+    },
+    {
+        id: 160,
+        name: "我们一起来抽鼠标吧",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%88%91%E4%BB%AC%E4%B8%80%E8%B5%B7%E6%9D%A5%E6%8A%BD%E9%BC%A0%E6%A0%87%E5%90%A7.MP3",
+        category: "其他"
+    },
+    {
+        id: 163,
+        name: "扇完左边扇右边",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%89%87%E5%AE%8C%E5%B7%A6%E8%BE%B9%E6%89%87%E5%8F%B3%E8%BE%B9.mp3",
+        category: "其他"
+    },
+    {
+        id: 167,
+        name: "求求你了",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%B1%82%E6%B1%82%E4%BD%A0%E4%BA%86.MP3",
         category: "其他"
     },
      // ========== 继续添加你的音频 ==========
