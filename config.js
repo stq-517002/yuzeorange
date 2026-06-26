@@ -25,6 +25,12 @@ const audioData = [
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D3.mp3",
         category: "名言"
     },  
+    {
+        id: 172,
+        name: "自我介绍4",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E9%92%A2%E6%9D%BF%E6%89%B9%E5%8F%91%E5%95%86.MP3",
+        category: "名言"
+    },  
 {
         id: 27,
         name: "全体目光向我看齐!",
@@ -558,6 +564,12 @@ const audioData = [
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%A6%88%E5%A6%882.MP3",
         category: "称呼"
     },
+    {
+        id: 175,
+        name: "杂鱼",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%9D%82%E9%B1%BC.MP3",
+        category: "称呼"
+    },
  // ========== 代表作 ==========
     {
         id: 13,
@@ -1023,9 +1035,63 @@ const audioData = [
         category: "其他"
     },
     {
-        id: 170,
+        id: 171,
         name: "ta这个地方好敏感，我要玩弄这个",
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/ta%E8%BF%99%E4%B8%AA%E5%9C%B0%E6%96%B9%E5%A5%BD%E6%95%8F%E6%84%9F%EF%BC%8C%E6%88%91%E8%A6%81%E7%8E%A9%E5%BC%84%E8%BF%99%E4%B8%AA.mp3",
+        category: "其他"
+    },
+    {
+        id: 173,
+        name: "舰狗",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E8%88%B0%E7%8B%97.MP3",
+        category: "其他"
+    },
+     {
+        id: 174,
+        name: "舰狗来了",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E8%88%B0%E7%8B%97%E6%9D%A5%E4%BA%86.MP3",
+        category: "其他"
+    },
+     {
+        id: 176,
+        name: "收男友粉",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%94%B6%E7%94%B7%E5%8F%8B%E7%B2%89.MP3",
+        category: "其他"
+    },
+    {
+        id: 164,
+        name: "我喜欢嗦脚",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%88%91%E5%96%9C%E6%AC%A2%E5%97%A6%E8%84%9A.MP3",
+        category: "其他"
+    },
+    {
+        id: 165,
+        name: "懂我意思吗",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%87%82%E6%88%91%E6%84%8F%E6%80%9D.MP3",
+        category: "其他"
+    },
+    {
+        id: 177,
+        name: "感觉好棒",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%84%9F%E8%A7%89%E5%A5%BD%E6%A3%92.MP3",
+        category: "其他"
+    },
+     {
+        id: 178,
+        name: "坏掉了喵",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%9D%8F%E6%8E%89%E4%BA%86%E5%96%B5.MP3",
+        category: "其他"
+    },
+     {
+        id: 179,
+        name: "要三连",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E4%B8%89%E8%BF%9E.MP3",
+        category: "其他"
+    },
+    {
+        id: 180,
+        name: "求饶小猫",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%B1%82%E9%A5%B6%E5%B0%8F%E7%8C%AB.MP3",
         category: "其他"
     },
      // ========== 继续添加你的音频 ==========
