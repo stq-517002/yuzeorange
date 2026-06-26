@@ -1094,6 +1094,18 @@ const audioData = [
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%B1%82%E9%A5%B6%E5%B0%8F%E7%8C%AB.MP3",
         category: "其他"
     },
+    {
+        id: 181,
+        name: "像我这样的糖",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%83%8F%E6%88%91%E8%BF%99%E6%A0%B7%E7%9A%84%E7%B3%96.MP3",
+        category: "其他"
+    },
+    {
+        id: 182,
+        name: "正在高潮",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%AD%A3%E5%9C%A8%E9%AB%98%E6%BD%AE.MP3",
+        category: "其他"
+    },
      // ========== 继续添加你的音频 ==========
 
 ];
