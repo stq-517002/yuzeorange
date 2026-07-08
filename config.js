@@ -385,6 +385,18 @@ const audioData = [
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%88%91%E6%98%AF%E7%A7%83%E5%A4%B4.MP3",
         category: "名言"
     },
+    {
+        id: 192,
+        name: "我是光头",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%88%91%E6%98%AF%E5%85%89%E5%A4%B4.MP3",
+        category: "名言"
+    },
+    {
+        id: 193,
+        name: "来看我钩吧",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%9D%A5%E7%9C%8B%E6%88%91%E9%92%A9%E5%90%A7.MP3",
+        category: "名言"
+    },
  // ========== 十八连 ==========
     {
         id: 6,
@@ -417,7 +429,12 @@ const audioData = [
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%5BP14%5D%2814%29%E7%A6%81%E8%A8%80%E5%9B%9E%E5%85%88%E8%A1%8C%E4%BD%93%E9%AA%8C%E7%89%88%2825.11.30%29.mp3",
         category: "怪声"
     },
-
+{
+        id: 188,
+        name: "哼哼哼",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%93%BC%E5%93%BC%E5%93%BC.MP3",
+        category: "怪声"
+    },
       {
         id: 10,
         name: "疑似吸猫薄荷后片段流出",
@@ -470,6 +487,36 @@ const audioData = [
         id: 104,
         name: "两岸猿声啼不住",
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E4%B8%A4%E5%B2%B8%E7%8C%BF%E5%A3%B0%E5%95%BC%E4%B8%8D%E4%BD%8F.mp3",
+        category: "怪声"
+    },
+    {
+        id: 186,
+        name: "哈气",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%93%88%E6%B0%94.MP3",
+        category: "怪声"
+    },
+    {
+        id: 189,
+        name: "小动静",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%B0%8F%E5%8A%A8%E9%9D%99.MP3",
+        category: "怪声"
+    },
+    {
+        id: 190,
+        name: "小动静2",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%B0%8F%E5%8A%A8%E9%9D%992.MP3",
+        category: "怪声"
+    },
+    {
+        id: 191,
+        name: "小动静3",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%B0%8F%E5%8A%A8%E9%9D%993.MP3",
+        category: "怪声"
+    },
+     {
+        id: 194,
+        name: "猫托车",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E7%8C%AB%E6%89%98%E8%BD%A6.MP3",
         category: "怪声"
     },
  // ========== 称呼 ==========
@@ -724,6 +771,12 @@ const audioData = [
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%94%90%E7%AC%916.mp3",
         category: "糖笑"
     },
+    {
+        id: 183,
+        name: "糖笑7",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%94%90%E7%AC%917.MP3",
+        category: "糖笑"
+    },
 // ========== 猫叫 ==========
     {
         id: 32,
@@ -890,6 +943,12 @@ const audioData = [
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E4%B8%8D%E8%A6%81%EF%BC%8C%E4%B8%8D%E8%A6%81%EF%BC%8C%E4%B8%8D%E8%A6%81%E8%BF%99%E6%A0%B7.MP3",
         category: "其他"
     },
+     {
+        id: 184,
+        name: "不要，不要不要，啊，不要",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E4%B8%8D%E8%A6%81%20%E4%B8%8D%E8%A6%81%E4%B8%8D%E8%A6%81%20%E5%95%8A%20%E4%B8%8D%E8%A6%81.MP3",
+        category: "其他"
+    },
 {
         id: 91,
         name: "什么意思*n",
@@ -918,6 +977,12 @@ const audioData = [
         id: 105,
         name: "去死喵",
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%8E%BB%E6%AD%BB%E5%96%B5.mp3",
+        category: "其他"
+    },
+    {
+        id: 195,
+        name: "不要杀我",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E4%B8%8D%E8%A6%81%E6%9D%80%E6%88%91.MP3",
         category: "其他"
     },
     {
@@ -1094,6 +1159,12 @@ const audioData = [
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%B1%82%E9%A5%B6%E5%B0%8F%E7%8C%AB.MP3",
         category: "其他"
     },
+     {
+        id: 187,
+        name: "哈气小猫",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%93%88%E6%B0%94%E5%B0%8F%E7%8C%AB.MP3",
+        category: "其他"
+    },
     {
         id: 181,
         name: "像我这样的糖",
@@ -1104,6 +1175,12 @@ const audioData = [
         id: 182,
         name: "正在高潮",
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%AD%A3%E5%9C%A8%E9%AB%98%E6%BD%AE.MP3",
+        category: "其他"
+    },
+    {
+        id: 195,
+        name: "讨厌鱼沢",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E8%AE%A8%E5%8E%8C%E9%B1%BC%E6%B2%A2.MP3",
         category: "其他"
     },
      // ========== 继续添加你的音频 ==========
