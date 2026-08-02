@@ -163,6 +163,12 @@ const audioData = [
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E7%9C%9F%E6%9C%89%E7%97%85%E5%90%A7.MP3",
         category: "名言"
     },
+    {
+        id: 213,
+        name: "你有病吧",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E7%9C%9F%E6%9C%89%E7%97%85%E5%90%A7.MP3",
+        category: "名言"
+    },
 {
         id: 55,
         name: "主人主人汪汪汪",
@@ -179,6 +185,12 @@ const audioData = [
         id: 58,
         name: "我超2",
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/WC2.mp3",
+        category: "名言"
+    },
+    {
+        id: 205,
+        name: "飞天大超",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E9%A3%9E%E5%A4%A9%E5%A4%A7chao.mp3",
         category: "名言"
     },
 {
@@ -397,6 +409,18 @@ const audioData = [
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%9D%A5%E7%9C%8B%E6%88%91%E9%92%A9%E5%90%A7.MP3",
         category: "名言"
     },
+    {
+        id: 200,
+        name: "你tm的",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E4%BD%A0tm%E7%9A%84.mp3",
+        category: "名言"
+    },
+    {
+        id: 210,
+        name: "你们JJ自动缩短",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E4%BD%A0%E4%BB%ACJJ%E8%87%AA%E5%8A%A8%E7%BC%A9%E7%9F%AD.MP3",
+        category: "名言"
+    },
  // ========== 十八连 ==========
     {
         id: 6,
@@ -519,6 +543,24 @@ const audioData = [
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E7%8C%AB%E6%89%98%E8%BD%A6.MP3",
         category: "怪声"
     },
+    {
+        id: 214,
+        name: "哦吼吼吼",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%93%A6%E5%9A%AF%E5%9A%AF%E5%9A%AF.mp3",
+        category: "怪声"
+    },
+    {
+        id: 216,
+        name: "奇怪的喘息",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%A5%87%E6%80%AA%E7%9A%84%E5%96%98%E6%81%AF.mp3",
+        category: "怪声"
+    },
+    {
+        id: 221,
+        name: "疑似3p",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E7%96%91%E4%BC%BC3p.mp3",
+        category: "怪声"
+    },
  // ========== 称呼 ==========
   {
         id: 9,
@@ -628,6 +670,18 @@ const audioData = [
         id: 14,
         name: "爱情买卖",
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%5BP01%5D%E7%AC%AC%E4%B8%80%E9%81%8D.mp3",
+        category: "代表作"
+    },
+    {
+        id: 196,
+        name: "1346的约定",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/1346%E7%9A%84%E7%BA%A6%E5%AE%9A.MP3",
+        category: "代表作"
+    },
+    {
+        id: 204,
+        name: "戒农",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%88%92%E5%86%9C.MP3",
         category: "代表作"
     },
 // ========== 对同事发癫系列 ==========
@@ -777,6 +831,18 @@ const audioData = [
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%94%90%E7%AC%917.MP3",
         category: "糖笑"
     },
+    {
+        id: 215,
+        name: "糖笑8",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%94%90%E7%AC%918.mp3",
+        category: "糖笑"
+    },
+    {
+        id: 202,
+        name: "地狱糖笑",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%9C%B0%E7%8B%B1%E5%94%90%E7%AC%91.MP3",
+        category: "糖笑"
+    },
 // ========== 猫叫 ==========
     {
         id: 32,
@@ -870,11 +936,58 @@ const audioData = [
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E7%8B%97%E5%8F%AB.mp3",
         category: "其他"
     },
-
+{
+        id: 218,
+        name: "我是一只猪",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%88%91%E6%98%AF%E4%B8%80%E5%8F%AA%E7%8C%AA.MP3",
+        category: "其他"
+    },
+    {
+        id: 219,
+        name: "我本来就是猪",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%88%91%E6%9C%AC%E6%9D%A5%E5%B0%B1%E6%98%AF%E7%8C%AA.MP3",
+        category: "其他"
+    },
 {
         id: 170,
         name: "猪叫",
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%AD%A6%E7%8C%AA%E5%8F%AB.mp3",
+        category: "其他"
+    },
+    {
+        id: 197,
+        name: "不明生物叫",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E4%B8%8D%E6%98%8E%E7%94%9F%E7%89%A9%E5%8F%AB.mp3",
+        category: "其他"
+    },
+    {
+        id: 223,
+        name: "鸭子叫",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E9%B8%AD%E5%AD%90%E5%8F%AB2.mp3",
+        category: "其他"
+    },
+    {
+        id: 224,
+        name: "鸭子叫2",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E9%B8%AD%E5%AD%90%E5%8F%AB3.mp3",
+        category: "其他"
+    },
+    {
+        id: 225,
+        name: "鸭子叫3",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E9%B8%AD%E5%AD%90%E5%8F%AB4.mp3",
+        category: "其他"
+    },
+    {
+        id: 207,
+        name: "乌鸦叫",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E4%B9%8C%E9%B8%A6%E5%8F%AB.mp3",
+        category: "其他"
+    },
+    {
+        id: 208,
+        name: "乌鸦亖了",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E4%B9%8C%E9%B8%A6%E4%BA%96%E4%BA%86.mp3",
         category: "其他"
     },
     {
@@ -947,6 +1060,18 @@ const audioData = [
         id: 184,
         name: "不要，不要不要，啊，不要",
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E4%B8%8D%E8%A6%81%20%E4%B8%8D%E8%A6%81%E4%B8%8D%E8%A6%81%20%E5%95%8A%20%E4%B8%8D%E8%A6%81.MP3",
+        category: "其他"
+    },
+    {
+        id: 198,
+        name: "不要~",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E4%B8%8D%E8%A6%81%7E.mp3",
+        category: "其他"
+    },
+    {
+        id: 199,
+        name: "不要啊不要~",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E4%B8%8D%E8%A6%81%E5%95%8A%E4%B8%8D%E8%A6%81%7E.mp3",
         category: "其他"
     },
 {
@@ -1181,6 +1306,60 @@ const audioData = [
         id: 195,
         name: "讨厌鱼沢",
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E8%AE%A8%E5%8E%8C%E9%B1%BC%E6%B2%A2.MP3",
+        category: "其他"
+    },
+    {
+        id: 201,
+        name: "咕咕嘎嘎",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%92%95%E5%92%95%E5%98%8E%E5%98%8E.MP3",
+        category: "其他"
+    },
+    {
+        id: 203,
+        name: "好痛~",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%A5%BD%E7%97%9B%7E.mp3",
+        category: "其他"
+    },
+    {
+        id: 206,
+        name: "一次就不行了？",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E4%B8%80%E6%AC%A1%E5%B0%B1%E4%B8%8D%E8%A1%8C%E4%BA%86%EF%BC%9F.mp3",
+        category: "其他"
+    },
+    {
+        id: 209,
+        name: "你个傻逼",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E4%BD%A0%E4%B8%AA%E5%82%BB%E9%80%BC.mp3",
+        category: "其他"
+    },
+    {
+        id: 211,
+        name: "你妈的",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E4%BD%A0%E5%A6%88%E7%9A%84%EF%BC%88%E9%9C%87%E6%83%8A.mp3",
+        category: "其他"
+    },
+    {
+        id: 212,
+        name: "你放过我吧老e",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E4%BD%A0%E6%94%BE%E8%BF%87%E6%88%91%E5%90%A7%E8%80%81e.mp3",
+        category: "其他"
+    },
+    {
+        id: 217,
+        name: "我tm砍死你",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%88%91tm%E7%A0%8D%E6%AD%BB%E4%BD%A0%EF%BC%88%E5%86%B7%E9%9D%99.mp3",
+        category: "其他"
+    },
+    {
+        id: 220,
+        name: "是啥子吧",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%98%AF%E5%95%A5%E5%AD%90%E5%90%A7.MP3",
+        category: "其他"
+    },
+    {
+        id: 222,
+        name: "装爹",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E8%A3%85%E7%88%B9.mp3",
         category: "其他"
     },
      // ========== 继续添加你的音频 ==========
