@@ -493,6 +493,24 @@ const audioData = [
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%97%A9%E5%B0%B1%E6%8F%92%E8%BF%9B%E5%8E%BB%E4%BA%86.mp3",
         category: "名言"
     },
+    {
+        id: 239,
+        name: "爸爸别踩我",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E7%88%B8%E7%88%B8%E5%88%AB%E8%B8%A9%E6%88%91.MP3",
+        category: "名言"
+    },
+    {
+        id: 240,
+        name: "不要踩我 不是足控",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E4%B8%8D%E8%A6%81%E8%B8%A9%E6%88%91%20%E4%B8%8D%E6%98%AF%E8%B6%B3%E6%8E%A7.MP3",
+        category: "名言"
+    },
+    {
+        id: 241,
+        name: "就知道拿他那个臭脚蹬我",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%B0%B1%E7%9F%A5%E9%81%93%E6%8B%BF%E4%BB%96%E9%82%A3%E4%B8%AA%E8%87%AD%E8%84%9A%E8%B9%AC%E6%88%91.MP3",
+        category: "名言"
+    },
  // ========== 十八连 ==========
     {
         id: 6,
