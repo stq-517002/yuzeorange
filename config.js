@@ -1,5 +1,84 @@
 // 音频数据配置
 const audioData = [
+    // ========== 新 ==========
+    {
+        id: 10001,
+        name: "你怎么射的这么慢",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E4%BD%A0%E6%80%8E%E4%B9%88%E5%B0%84%E7%9A%84%E8%BF%99%E4%B9%88%E6%85%A2.MP3",
+        category: "新"
+    }, 
+    {
+        id: 10002,
+        name: "你有病",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E4%BD%A0%E6%9C%89%E7%97%85.MP3",
+        category: "新"
+    }, 
+    {
+        id: 10003,
+        name: "出货",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%87%BA%E8%B4%A7.MP3",
+        category: "新"
+    }, 
+    {
+        id: 10004,
+        name: "哪有我这么可爱的啥子",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%93%AA%E6%9C%89%E6%88%91%E8%BF%99%E4%B9%88%E5%8F%AF%E7%88%B1%E7%9A%84%E5%95%A5%E5%AD%90.MP3",
+        category: "新"
+    }, 
+    {
+        id: 10005,
+        name: "奇怪的喘气",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%A5%87%E6%80%AA%E7%9A%84%E5%96%98%E6%B0%94.MP3",
+        category: "新"
+    }, 
+    {
+        id: 10006,
+        name: "我不会怀宝宝了吧",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%88%91%E4%B8%8D%E4%BC%9A%E6%80%80%E5%AE%9D%E5%AE%9D%E4%BA%86%E5%90%A7.MP3",
+        category: "新"
+    }, 
+    {
+        id: 10007,
+        name: "我是0",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%88%91%E6%98%AF0.MP3",
+        category: "新"
+    }, 
+    {
+        id: 10008,
+        name: "我是沙比",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%88%91%E6%98%AF%E6%B2%99%E6%AF%94.MP3",
+        category: "新"
+    }, 
+    {
+        id: 10009,
+        name: "扣扣大油",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%89%A3%E6%89%A3%E5%A4%A7%E6%B2%B9.MP3",
+        category: "新"
+    }, 
+    {
+        id: 10010,
+        name: "沙比才是大智慧",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%B2%99%E6%AF%94%E6%89%8D%E6%98%AF%E5%A4%A7%E6%99%BA%E6%85%A7.MP3",
+        category: "新"
+    }, 
+    {
+        id: 10011,
+        name: "直播间统一口号喊票来",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E7%9B%B4%E6%92%AD%E9%97%B4%E7%BB%9F%E4%B8%80%E5%8F%A3%E5%8F%B7%E5%96%8A%E7%A5%A8%E6%9D%A5.MP3",
+        category: "新"
+    }, 
+    {
+        id: 10012,
+        name: "票来",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E7%A5%A8%E6%9D%A5.MP3",
+        category: "新"
+    }, 
+    {
+        id: 10013,
+        name: "糖猫代言",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E7%B3%96%E7%8C%AB%E4%BB%A3%E8%A8%80.MP3",
+        category: "新"
+    }, 
     // ========== 名言 ==========
 {
         id: 131,
@@ -343,6 +422,12 @@ const audioData = [
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E8%83%BD%E4%B8%8D%E8%83%BD%E5%BF%AB%E7%82%B9%E7%A4%BE.MP3",
         category: "名言"
     },
+    {
+        id: 242,
+        name: "你怎么射的这么慢",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E4%BD%A0%E6%80%8E%E4%B9%88%E5%B0%84%E7%9A%84%E8%BF%99%E4%B9%88%E6%85%A2.MP3",
+        category: "名言"
+    },
      {
         id: 134,
         name: "我都导了",
@@ -511,6 +596,12 @@ const audioData = [
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%B0%B1%E7%9F%A5%E9%81%93%E6%8B%BF%E4%BB%96%E9%82%A3%E4%B8%AA%E8%87%AD%E8%84%9A%E8%B9%AC%E6%88%91.MP3",
         category: "名言"
     },
+    {
+        id: 254,
+        name: "糖猫代言",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E7%B3%96%E7%8C%AB%E4%BB%A3%E8%A8%80.MP3",
+        category: "名言"
+    }, 
  // ========== 十八连 ==========
     {
         id: 6,
@@ -651,6 +742,12 @@ const audioData = [
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E7%96%91%E4%BC%BC3p.mp3",
         category: "怪声"
     },
+    {
+        id: 246,
+        name: "奇怪的喘气",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%A5%87%E6%80%AA%E7%9A%84%E5%96%98%E6%B0%94.MP3",
+        category: "怪声"
+    }, 
  // ========== 称呼 ==========
   {
         id: 9,
@@ -1458,6 +1555,66 @@ const audioData = [
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E8%A3%85%E7%88%B9.mp3",
         category: "其他"
     },
+    {
+        id: 243,
+        name: "你有病",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E4%BD%A0%E6%9C%89%E7%97%85.MP3",
+        category: "其他"
+    }, 
+    {
+        id: 244,
+        name: "出货",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%87%BA%E8%B4%A7.MP3",
+        category: "其他"
+    }, 
+    {
+        id: 245,
+        name: "哪有我这么可爱的啥子",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%93%AA%E6%9C%89%E6%88%91%E8%BF%99%E4%B9%88%E5%8F%AF%E7%88%B1%E7%9A%84%E5%95%A5%E5%AD%90.MP3",
+        category: "其他"
+    },
+    {
+        id: 247,
+        name: "我不会怀宝宝了吧",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%88%91%E4%B8%8D%E4%BC%9A%E6%80%80%E5%AE%9D%E5%AE%9D%E4%BA%86%E5%90%A7.MP3",
+        category: "其他"
+    }, 
+    {
+        id: 248,
+        name: "我是0",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%88%91%E6%98%AF0.MP3",
+        category: "其他"
+    }, 
+    {
+        id: 249,
+        name: "我是沙比",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%88%91%E6%98%AF%E6%B2%99%E6%AF%94.MP3",
+        category: "其他"
+    }, 
+    {
+        id: 250,
+        name: "扣扣大油",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%89%A3%E6%89%A3%E5%A4%A7%E6%B2%B9.MP3",
+        category: "其他"
+    }, 
+    {
+        id: 251,
+        name: "沙比才是大智慧",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E6%B2%99%E6%AF%94%E6%89%8D%E6%98%AF%E5%A4%A7%E6%99%BA%E6%85%A7.MP3",
+        category: "其他"
+    }, 
+    {
+        id: 252,
+        name: "直播间统一口号喊票来",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E7%9B%B4%E6%92%AD%E9%97%B4%E7%BB%9F%E4%B8%80%E5%8F%A3%E5%8F%B7%E5%96%8A%E7%A5%A8%E6%9D%A5.MP3",
+        category: "其他"
+    }, 
+    {
+        id: 253,
+        name: "票来",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E7%A5%A8%E6%9D%A5.MP3",
+        category: "其他"
+    }, 
      // ========== 继续添加你的音频 ==========
 
 ];
