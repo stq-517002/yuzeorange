@@ -630,7 +630,7 @@ const audioData = [
         id: 267,
         name: "裤衩也别穿",
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E8%A3%A4%E8%A1%A9%E4%B9%9F%E5%88%AB%E7%A9%BF.MP3",
-        category: "新"
+        category: "名言"
     }, 
  // ========== 十八连 ==========
     {
@@ -1691,7 +1691,7 @@ const audioData = [
         id: 266,
         name: "老公别打我",
         url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E8%80%81%E5%85%AC%E5%88%AB%E6%89%93%E6%88%91.MP3",
-        category: "新"
+        category: "其他"
     }, 
      // ========== 继续添加你的音频 ==========
 
