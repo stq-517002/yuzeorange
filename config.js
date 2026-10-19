@@ -28,7 +28,7 @@ const audioData = [
     {
         id: 10005,
         name: "变态",
-        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%8F%98%E6%80%81.MP33",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%8F%98%E6%80%81.MP3",
         category: "新"
     }, 
     {
