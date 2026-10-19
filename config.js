@@ -879,7 +879,7 @@ const audioData = [
     {
         id: 259,
         name: "变态",
-        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%8F%98%E6%80%81.MP33",
+        url: "https://yuzeorange.oss-cn-hangzhou.aliyuncs.com/%E5%8F%98%E6%80%81.MP3",
         category: "称呼"
     }, 
  // ========== 代表作 ==========
